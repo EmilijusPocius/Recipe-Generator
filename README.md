@@ -1,2 +1,2 @@
-# NLTP_Recipe-Generator
-NLTP Coursework Home Work
+# Recipe-Generator
+Coursework Home Work
